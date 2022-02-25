@@ -29,7 +29,7 @@ The latest flight control hardware: [POD-Micromod-STM32](https://github.com/yecl
 ### POD-Lambor
 For safety concern, we also have a terrestrial version of POD which gives the smartphone wheels. This setup use a cheap robot kit, L298N motor drivers, and a STM32F407 discovery board as the controller. A simplified version of POD flight controller is running on the discovery board, we provide a simple API for android program to communicate with the controller through a USB connection.
 
-![Lambor](./assets/images/lambor.gif){: width="500" }
+![Lambor](./assets/images/lambor.webp){: width="500" }
 
 Android side code:
 [AndroidUsbSerial](https://github.com/yecl-pod/AndroidUsbSerial), embedded firmware: [STM32F407DiscoveryCar](https://github.com/yecl-pod/STM32F407DiscoveryCar)
