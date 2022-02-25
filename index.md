@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ## YECL POD Project
 
 POD is smartphone that flies, as a new way to achieve hands-free, eyes-up mobile computing. Unlike existing drone-carried user interfaces, POD features a smartphone-sized display and the computing as well sensing power of a modern smartphone. We are visioning about giving phone wings, wheels and arms.
@@ -43,4 +47,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Ph.D. Student Guojun Chen: <guojun.chen@yale.edu>, Prof. Lin Zhong: <lin.zhong@yale.edu>
+#### **Ph.D. Student**
+##### Guojun Chen: <guojun.chen@yale.edu>
+
+#### **Prof.** 
+##### Lin Zhong: <lin.zhong@yale.edu>
