@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## YECL POD Project
+
+POD is smartphone that flies, as a new way to achieve hands-free, eyes-up mobile computing. Unlike existing drone-carried user interfaces, POD features a smartphone-sized display and the computing as well sensing power of a modern smartphone. We are visioning about giving phone wings, wheels and arms.
 
 You can use the [editor on GitHub](https://github.com/yecl-pod/yecl-pod.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -39,6 +41,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yecl-pod/yecl-pod.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ph.D. Student: [Guojun Chen](guojun.chen@yale.edu), Prof. [Lin Zhong](lin.zhong@yale.edu)
