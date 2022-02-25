@@ -8,6 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
 ```markdown
 Syntax highlighted code block
 
