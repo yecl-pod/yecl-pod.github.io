@@ -43,4 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Ph.D. Student: [Guojun Chen](guojun.chen@yale.edu), Prof. [Lin Zhong](lin.zhong@yale.edu)
+Ph.D. Student: Guojun Chen<guojun.chen@yale.edu>, Prof. Lin Zhong<lin.zhong@yale.edu>
