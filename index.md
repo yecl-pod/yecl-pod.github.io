@@ -7,11 +7,11 @@ title: YECL POD Project
 POD is smartphone that flies, as a new way to achieve hands-free, eyes-up mobile computing. Unlike existing drone-carried user interfaces, POD features a smartphone-sized display and the computing as well sensing power of a modern smartphone. We are visioning about giving phone wings, wheels and arms.
 
 ### Original POD
-![POD-v1](./assets/images/POD-o.png)
+![POD-v1](./assets/images/POD-o.png){: width="500" }
 *Primitive POD*
 
 ### POD-Mini
-![POD-v1](./assets/images/POD-v1.jpg)
+![POD-v1](./assets/images/POD-v1.jpg){: width="500" }
 *POD v1*
 
 ### POD-DJI
