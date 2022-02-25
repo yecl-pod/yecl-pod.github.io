@@ -1,16 +1,12 @@
 ---
-title: Home
+title: YECL POD Project
 ---
 
-## YECL POD Project
+## About the POD
 
 POD is smartphone that flies, as a new way to achieve hands-free, eyes-up mobile computing. Unlike existing drone-carried user interfaces, POD features a smartphone-sized display and the computing as well sensing power of a modern smartphone. We are visioning about giving phone wings, wheels and arms.
 
-You can use the [editor on GitHub](https://github.com/yecl-pod/yecl-pod.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -47,8 +43,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-#### **Ph.D. Student**
-##### Guojun Chen: <guojun.chen@yale.edu>
-
-#### **Prof.** 
-##### Lin Zhong: <lin.zhong@yale.edu>
+#### **Ph.D. Student** Guojun Chen: <guojun.chen@yale.edu>
+#### **Prof.**  Lin Zhong: <lin.zhong@yale.edu>
