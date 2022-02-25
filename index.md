@@ -6,6 +6,8 @@ title: YECL POD Project
 
 POD is smartphone that flies, as a new way to achieve hands-free, eyes-up mobile computing. Unlike existing drone-carried user interfaces, POD features a smartphone-sized display and the computing as well sensing power of a modern smartphone. We are visioning about giving phone wings, wheels and arms.
 
+Full repo list can be found [here](https://github.com/yecl-pod).
+
 ### Original POD
 The very first POD uses the first version of our flight control (which is based on [crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware)) with motors from DJI Tello drone and 3D printed frame. Though it flies badly, it helps me learn a lot about the drone theory.
 
