@@ -6,7 +6,15 @@ title: YECL POD Project
 
 POD is smartphone that flies, as a new way to achieve hands-free, eyes-up mobile computing. Unlike existing drone-carried user interfaces, POD features a smartphone-sized display and the computing as well sensing power of a modern smartphone. We are visioning about giving phone wings, wheels and arms.
 
-## Markdown
+### Original POD
+![POD-v1](./assets/images/POD-o.png)
+*Primitive POD*
+
+### POD-Mini
+![POD-v1](./assets/images/POD-v1.jpg)
+*POD v1*
+
+### POD-DJI
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -42,6 +50,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yecl-pod/yecl-pod.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
+**Ph.D. Student** Guojun Chen: <guojun.chen@yale.edu>
 
-#### **Ph.D. Student** Guojun Chen: <guojun.chen@yale.edu>
-#### **Prof.**  Lin Zhong: <lin.zhong@yale.edu>
+**Prof.**  Lin Zhong: <lin.zhong@yale.edu>
