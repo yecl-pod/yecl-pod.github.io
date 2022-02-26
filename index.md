@@ -38,4 +38,9 @@ Android side code:
 ### Contact
 **Ph.D. Student** Guojun Chen: <guojun.chen@yale.edu>
 
+**Undergraduate Student**
+- Noah Weiner: <noah.weiner@yale.edu>
+- Yichen Cai: <cai-yc18@mails.tsinghua.edu.cn>
+- Justin Aubin: <justin.aubin@yale.edu>
+
 **Prof.**  Lin Zhong: <lin.zhong@yale.edu>
