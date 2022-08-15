@@ -34,6 +34,10 @@ For safety concern, we also have a terrestrial version of POD which gives the sm
 Android side code:
 [AndroidUsbSerial](https://github.com/yecl-pod/AndroidUsbSerial), embedded firmware: [STM32F407DiscoveryCar](https://github.com/yecl-pod/STM32F407DiscoveryCar)
 
+### POD-Geese Chaser
+Over the past 30 years, the Canadian geese population in the United States has sharply increased. They can take up residence in public and private spaces such as parks, beaches, and golf courses. Geese's activities will degrade the quality of the above areas. Traditional solution is using trained dogs to expel these invaders. However, we introduce the POD Geese Chaser which is much cheaper and can identify and chase only geese within a digitally defined region.
+![POD Geese Chaser](./assets/images/POD-Geese_Chaser.jpg){: width="500}
+
 
 ### Contact
 **Ph.D. Student** Guojun Chen: <guojun.chen@yale.edu>
@@ -42,5 +46,9 @@ Android side code:
 - Noah Weiner: <noah.weiner@yale.edu>
 - Yichen Cai: <cai-yc18@mails.tsinghua.edu.cn>
 - Justin Aubin: <justin.aubin@yale.edu>
+- Aman Heyer: <aman.heyer@yale.edu>
+- Maansi Dasari: <maansi.dasari@yale.edu>
+- Sam Detor: <sam.detor@yale.edu>
+- Stefan-Cristian Roata: <stefan.roata@u.yale-nus.edu.sg>
 
 **Prof.**  Lin Zhong: <lin.zhong@yale.edu>
