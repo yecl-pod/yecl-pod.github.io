@@ -71,8 +71,8 @@ Over the past 30 years, the Canadian geese population in the United States has s
     </div>
 </div>
 
-Android side code:
-[POD Geese Chaser](https://https://github.com/yecl-pod/POD-Geese-Chaser).
+<br>
+Android side code: [POD Geese Chaser](https://https://github.com/yecl-pod/POD-Geese-Chaser).
 
 
 ### Contact
