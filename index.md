@@ -62,8 +62,14 @@ Android side code:
 ### POD-Geese Chaser
 Over the past 30 years, the Canadian geese population in the United States has sharply increased. They can take up residence in public and private spaces such as parks, beaches, and golf courses. Geese's activities will degrade the quality of the above areas. Traditional solution is using trained dogs to expel these invaders. However, we introduce the POD Geese Chaser which is much cheaper and can identify and chase only geese within a digitally defined region.
 
-![POD Geese Chaser](./assets/images/POD-Geese_Chaser.jpg){: width="500"}
-<iframe width="500" height="281" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div style="width: 100%;">
+    <div style="width: 49%; float: left;">
+        <img src="./assets/images/POD-Geese_Chaser.jpg" width="100%">
+    </div>
+    <div style="margin-left: 51%;">
+        <iframe width="100%" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+</div>
 
 Android side code:
 [POD Geese Chaser](https://https://github.com/yecl-pod/POD-Geese-Chaser).
