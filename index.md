@@ -37,7 +37,7 @@ Because the DJI mini frame only has limited payload and it's struggle to carry a
         <iframe width="100%" height="270" src="https://www.youtube.com/embed/V_BHK-Vx3G4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 </div>
-
+<br>
 <div style="width: 100%;">
     <div style="width: 49%; float: left;">
         <p>Face Expression</p>
