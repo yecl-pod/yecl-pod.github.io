@@ -64,7 +64,7 @@ Over the past 30 years, the Canadian geese population in the United States has s
 
 <div style="width: 100%;">
     <div style="width: 49%; float: left;">
-        <img src="./assets/images/POD-Geese_Chaser.jpg" width="100%">
+        <img src="./assets/images/POD-geeseChaser.jpg" width="100%">
     </div>
     <div style="margin-left: 51%;">
         <iframe width="100%" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
