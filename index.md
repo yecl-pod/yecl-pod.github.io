@@ -30,22 +30,22 @@ Because the DJI mini frame only has limited payload and it's struggle to carry a
 <div style="width: 100%;">
     <div style="width: 49%; float: left;">
         <p>User Following</p>
-        <iframe width="100%" height="270" src="https://www.youtube.com/embed/PLPfVkxYiHA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="100%" height="260" src="https://www.youtube.com/embed/PLPfVkxYiHA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
     <div style="margin-left: 51%;">
         <p>Remote Touch</p>
-        <iframe width="100%" height="270" src="https://www.youtube.com/embed/V_BHK-Vx3G4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="100%" height="260" src="https://www.youtube.com/embed/V_BHK-Vx3G4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 </div>
 <br>
 <div style="width: 100%;">
     <div style="width: 49%; float: left;">
         <p>Face Expression</p>
-        <iframe width="100%" height="270" src="https://www.youtube.com/embed/jAiynajOMy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="100%" height="260" src="https://www.youtube.com/embed/jAiynajOMy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
     <div style="margin-left: 51%;">
         <p>SLAM</p>
-        <iframe width="100%" height="270" src="https://www.youtube.com/embed/ejYz3srs5e8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="100%" height="260" src="https://www.youtube.com/embed/ejYz3srs5e8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -64,10 +64,10 @@ Over the past 30 years, the Canadian geese population in the United States has s
 
 <div style="width: 100%;">
     <div style="width: 49%; float: left;">
-        <img src="./assets/images/POD-geeseChaser.jpg" width="100%">
+        <img src="./assets/images/POD-geeseChaser.jpg" width="100%" height = "260">
     </div>
     <div style="margin-left: 51%;">
-        <iframe width="100%" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="100%" height = "260" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 </div>
 
