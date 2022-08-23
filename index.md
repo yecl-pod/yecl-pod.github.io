@@ -21,8 +21,13 @@ Then we improved our mechanical design and replace the brushed motors with more 
 The related git repos are: [POD-Firmware](https://github.com/yecl-pod/POD-Firmware), [POD-Bootloader](https://github.com/yecl-pod/POD-Bootloader), [PoseNet Tracker](https://github.com/flyingphone/posenet_tracker), and [Text Stabilization](https://github.com/yecl-pod/text_stabilization).
 
 ### POD-DJI
-This time, we further upgrade the POD by taking the DJI Mini as the frame. 
-![POD-v2](./assets/images/POD-v2.png){: width="500" }
+This time, we further upgrade the POD by taking the DJI Mini as the frame.
+![POD-DJI](./assets/images/POD-dji.png){: width="500" }
+
+### POD-V2
+Because the DJI mini frame only has limited payload and it's struggle to carry an extra Pixel4. We designed a new frame with much powerful motors and CNC carbon fiber protector. Here are the demos of user following, remote touch, face expression recognition and SLAM.
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The latest flight control hardware: [POD-Micromod-STM32](https://github.com/yecl-pod/POD-Micromod-STM32), [POD-Micromod-Extension](https://github.com/yecl-pod/POD-Micromod-Extension)
 
@@ -38,7 +43,9 @@ Android side code:
 Over the past 30 years, the Canadian geese population in the United States has sharply increased. They can take up residence in public and private spaces such as parks, beaches, and golf courses. Geese's activities will degrade the quality of the above areas. Traditional solution is using trained dogs to expel these invaders. However, we introduce the POD Geese Chaser which is much cheaper and can identify and chase only geese within a digitally defined region.
 
 ![POD Geese Chaser](./assets/images/POD-Geese_Chaser.jpg){: width="500"}
-<iframe width="500" height="281" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <iframe width="480" height="270" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <iframe width="480" height="270" src="https://www.youtube.com/embed/7vzYMXZFKa4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Android side code:
 [POD Geese Chaser](https://https://github.com/yecl-pod/POD-Geese-Chaser).
